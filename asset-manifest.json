@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/eduApp/static/css/main.9d40fa99.css",
+    "main.js": "/eduApp/static/js/main.753cfa5e.js",
+    "static/js/453.ed3810f9.chunk.js": "/eduApp/static/js/453.ed3810f9.chunk.js",
+    "static/media/back.jpg": "/eduApp/static/media/back.d32355755bb7cb6d1b48.jpg",
+    "static/media/awrapper.jpg": "/eduApp/static/media/awrapper.73cc999142ccc309c3a7.jpg",
+    "static/media/bg-final.webp": "/eduApp/static/media/bg-final.b4029a95fea19cbc688b.webp",
+    "index.html": "/eduApp/index.html",
+    "main.9d40fa99.css.map": "/eduApp/static/css/main.9d40fa99.css.map",
+    "main.753cfa5e.js.map": "/eduApp/static/js/main.753cfa5e.js.map",
+    "453.ed3810f9.chunk.js.map": "/eduApp/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d40fa99.css",
+    "static/js/main.753cfa5e.js"
+  ]
+}
